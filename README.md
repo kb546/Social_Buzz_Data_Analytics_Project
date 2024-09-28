@@ -46,6 +46,11 @@ This repository contains the data analytics project completed as part of the **A
 - `visualizations/`: Power BI dashboards and reports showing key trends.
 - `presentation/`: Final presentation and video created for the Social Buzz client, summarizing findings and recommendations.
 
+  
+## Contact Information
+- [Bill Kamanzi](Bikamanzi@gmail.com)
+- [LinkedIn Profile](https://www.linkedin.com/in/bill-kamanzi/)
+
 ## How to Use
 
 Clone or download the repository:

@@ -50,4 +50,4 @@ This repository contains the data analytics project completed as part of the **A
 
 Clone or download the repository:
 ```bash
-git clone https://github.com/your-username/Social-Buzz-Data-Analytics.git
+git clone https://github.com/your-username/Social_Buzz_Data_Analytics.git
